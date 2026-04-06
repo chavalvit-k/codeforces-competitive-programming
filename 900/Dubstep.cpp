@@ -1,7 +1,7 @@
 /*
 Author: passa
 Task #: 208A
-Task Name: Dupstep
+Task Name: Dubstep
 Difficulty: 900
 Tags: strings
 Language: C++ 
